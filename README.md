@@ -4,7 +4,7 @@
     </a>
   </div>
   
-  <img align="center" alt="coding" width="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" alt="coding" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk1d3VhZ2VnY2FpZGx1c3J1Z2R0dG5qYzB5bGJ5bWZ0dW5wY2VtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   
   #
   
@@ -19,11 +19,9 @@
 - Learning data structures and algorithms
 - Exploring back-end development fundamentals
   
-  <img align="right" alt="coding" height="190px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-  
   <h3 align="left">Connect with me!</h3>
   
-  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=7A3EFF&color=FFF)](mailto: itavares119@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=7A3EFF&color=FFF)](mailto:itavares119@gmail.com)
   
   <h3 align="left">Tech Stack</h3>
   
