@@ -39,12 +39,10 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7A3EFF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=7A3EFF&theme=jolly" alt="GitHub stats">
   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7A3EFF&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </div>
-  
-  #
-  
-  <div align="center">
-    
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo-Tavares&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="GitHub Activity Graph">
-  </div>
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Tavares&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
+
+---
+
+### Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo-Tavares&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="GitHub Activity Graph">
