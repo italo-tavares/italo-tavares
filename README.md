@@ -1,13 +1,11 @@
 <h3 align ="left">About me</h3>
-
-###
+#
 
 <p align="left">Back-End Developer focused on Java. Building a strong foundation in systems programming and algorithms while exploring web technologies. Passionate about creating efficient solutions through clean code and continuous learning.</p>
 
   
 <h3 align="left">Current Focus</h3>
-
-###
+#
 
 - Mastering core programming concepts with C
 - Developing Java applications and scripts
@@ -16,8 +14,7 @@
 
 
 <h3 align="left">Techs</h3>
-
-###
+#
 
 <div align="left">
 
@@ -42,8 +39,7 @@
 
   
 <h3 align="left">Stats</h3>
-
-###
+#
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7A3EFF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=7A3EFF&theme=jolly" height="150" alt="github stats">
@@ -52,8 +48,7 @@
 
 
 <h3 align="left">Social Media</h3>
-
-###
+#
 
 <div align="left">
   <a href="https://www.linkedin.com/in/italo-tavares-9625b8369/" target="_blank">
