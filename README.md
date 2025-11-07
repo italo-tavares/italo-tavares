@@ -1,10 +1,12 @@
 <h3 align ="left">About me</h3>
+
 #
 
 <p align="left">Back-End Developer focused on Java. Building a strong foundation in systems programming and algorithms while exploring web technologies. Passionate about creating efficient solutions through clean code and continuous learning.</p>
 
   
 <h3 align="left">Current Focus</h3>
+
 #
 
 - Mastering core programming concepts with C
@@ -14,6 +16,7 @@
 
 
 <h3 align="left">Techs</h3>
+
 #
 
 <div align="left">
@@ -39,6 +42,7 @@
 
   
 <h3 align="left">Stats</h3>
+
 #
 
 <div align="center">
@@ -48,6 +52,7 @@
 
 
 <h3 align="left">Social Media</h3>
+
 #
 
 <div align="left">
