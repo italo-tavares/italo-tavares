@@ -2,45 +2,32 @@
 
 ###
 
-<p align="left">Back-End Developer focused on Java. Building a strong foundation in systems programming and algorithms while exploring web technologies. Passionate about creating efficient solutions through clean code and continuous learning.</p>
+<p align="left">Software Engineering student at IFPB and aspiring Full-Stack Developer. Focused on data structures and algorithms, while building a strong foundation in systems programming and exploring web technologies. Passionate about programming competitions, algorithmic problem-solving, clean code, and continuous learning..</p>
 
-  
 <h2 align="left">Current Focus</h2>
 
 ###
 
-- Mastering core programming concepts with C
-- Developing Java applications and scripts
 - Learning data structures and algorithms
-- Exploring back-end development fundamentals
-
+- Exploring Full Stack development fundamentals
 
 <h2 align="left">Techs</h2>
 
 ###
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 <img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="40" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 <img width="15" />
-    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40" alt="Java logo" />
 <img width="15" />
 </div>
 
-  
 <h2 align="left">Stats</h2>
 
 ###
@@ -49,7 +36,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7A3EFF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=7A3EFF&theme=jolly" height="150" alt="github stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Tavares&layout=compact&langs_count=8&theme=midnight-purple&hide_border=false&order=2&text_color=FFF&border_color=36123c&" height="150" alt="used languages">
 </div>
-
 
 <h2 align="left">Social Media</h2>
 
