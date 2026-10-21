@@ -44,7 +44,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo-Tavares&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="contribution graph">
