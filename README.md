@@ -24,8 +24,6 @@
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40" alt="Java logo" />
-<img width="15" />
 </div>
 
 <h2 align="left">Stats</h2>
